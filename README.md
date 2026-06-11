@@ -24,7 +24,7 @@ Project SDA เป็น Web Application ที่พัฒนาด้วย **
 git clone https://github.com/SEROs0/Project-SDA.git
 cd project-company2
 
-# 3. ติดตั้ง dependencies (Frontend)
+# 2. ติดตั้ง dependencies (Frontend)
 cd frontend-SDA
 npm install
 
