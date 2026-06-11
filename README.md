@@ -25,7 +25,7 @@ git clone https://github.com/SEROs0/Project-SDA.git
 cd project-company2
 
 # 3. ติดตั้ง dependencies (Frontend)
-cd ../client
+cd frontend-SDA
 npm install
 
 ### รันโปรเจค (Development)
