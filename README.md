@@ -29,7 +29,7 @@ cd ../client
 npm install
 
 ### รันโปรเจค (Development)
-# รัน Frontend (port 3000)
-cd client
-npm start
+# รัน Frontend
+cd frontend-SDA
+npm run dev
 ```
