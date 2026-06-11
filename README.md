@@ -4,7 +4,7 @@
  
 # 📊Project SDA — Sales Dashboard Analytics
  
-ระบบ Sales Dashboard สำหรับบริษัท **Sino-Pacific Trading (Thailand)** ใช้แสดงยอดขาย วิเคราะห์ข้อมูล และแสดงผลเป็น Chart ให้ดูข้อมูลได้ง่ายและรวดเร็วขึ้น
+ระบบ Sales Dashboard วิเคราะห์ข้อมูลยอดขายเชิงลึกแบบ Real-time ช่วยให้ผู้บริหารเห็นภาพรวมและตัดสินใจได้อย่างแม่นยำ
  
 ---
 
